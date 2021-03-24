@@ -1,6 +1,4 @@
-┌───────────────────┐
-│ F4L4ND0 EM C0D1G0 │
-└───────────────────┘
+F4L4ND0 EM C0D1G0
 
 Conceitos de Programação Orientada a Objeto (Object Oriented Programming)
 
